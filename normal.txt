@@ -1,1 +1,1 @@
-some text 10000
+some text 10
