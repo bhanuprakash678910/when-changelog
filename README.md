@@ -1,1 +1,1 @@
-# when-changelog
+# when-changeloger
