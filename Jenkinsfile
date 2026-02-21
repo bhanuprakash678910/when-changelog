@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Build") {
             when {
-                changelog '.*some_text.*'
+                changelog '.*JIRA-.*'
 	    }
             steps {
                 echo "Hello World changelog"
